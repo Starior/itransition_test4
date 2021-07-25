@@ -1,1 +1,1 @@
-web: java -cp target/classes/;target/dependency/* com.starion.SpringBootRegistrationLoginApplication
+web: java -jar target/WebApp-0.0.1-SNAPSHOT.jar
