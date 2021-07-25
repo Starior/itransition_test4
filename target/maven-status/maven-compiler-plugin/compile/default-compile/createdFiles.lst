@@ -1,7 +1,0 @@
-com\starion\CustomUserDetails.class
-com\starion\CustomUserDetailsService.class
-com\starion\SpringBootRegistrationLoginApplication.class
-com\starion\User.class
-com\starion\AppController.class
-com\starion\UserRepository.class
-com\starion\WebSecurityConfig.class
